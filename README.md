@@ -2,7 +2,6 @@
 
 I’m a third-year Computer Science student, mostly focused on front-end web development right now, but back-end is definitely next on my list as I keep leveling up my skills and career.
 
-Besides tech, I love making music in FL Studio, playing volleyball and video games.
 
 ### /my_stack:
 
